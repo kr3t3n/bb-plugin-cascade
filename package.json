@@ -1,5 +1,5 @@
 {
-  "name": "bb-plugin-cascade",
+  "name": "bb-plugin-cascade-cas3",
   "version": "0.1.0",
   "type": "module",
   "description": "A scrollable, tiled layout for active BB threads.",
@@ -14,7 +14,7 @@
     "bbPluginSdk": ">=0.4.3"
   },
   "bb": {
-    "name": "Cascade",
+    "name": "Cascade CAS3",
     "description": "Scrollable-tiling thread layout — scroll columns horizontally, flip rows vertically.",
     "branding": {
       "icon": "./assets/icon.svg"

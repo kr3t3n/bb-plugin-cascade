@@ -1862,10 +1862,10 @@ const Sep = () => <span className="opacity-35">·</span>;
 
 export default definePluginApp((app) => {
   app.slots.navPanel({
-    id: "cascade",
-    title: "Cascade",
+    id: "cascade3",
+    title: "Cascade CAS3",
     icon: "Columns3",
-    path: "cascade",
+    path: "cascade3",
     component: CascadePanel,
   });
 });
